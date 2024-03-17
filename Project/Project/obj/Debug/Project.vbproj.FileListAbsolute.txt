@@ -1,0 +1,15 @@
+D:\progdesk\Project\Project\bin\Debug\Project.exe.config
+D:\progdesk\Project\Project\bin\Debug\Project.exe
+D:\progdesk\Project\Project\bin\Debug\Project.pdb
+D:\progdesk\Project\Project\bin\Debug\Project.xml
+D:\progdesk\Project\Project\obj\Debug\Project.vbproj.AssemblyReference.cache
+D:\progdesk\Project\Project\obj\Debug\Project.Form1.resources
+D:\progdesk\Project\Project\obj\Debug\Project.Resources.resources
+D:\progdesk\Project\Project\obj\Debug\Project.vbproj.GenerateResource.cache
+D:\progdesk\Project\Project\obj\Debug\Project.vbproj.CoreCompileInputs.cache
+D:\progdesk\Project\Project\obj\Debug\Project.exe
+D:\progdesk\Project\Project\obj\Debug\Project.xml
+D:\progdesk\Project\Project\obj\Debug\Project.pdb
+D:\progdesk\Project\Project\obj\Debug\Project.Form2.resources
+D:\progdesk\Project\Project\obj\Debug\Project.Form3.resources
+D:\progdesk\Project\Project\obj\Debug\Project.Form4.resources
